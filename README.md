@@ -1,3 +1,9 @@
+![6](https://github.com/Naavii707/PROYECTO-PARCIAL-3/assets/156258057/2c9c167a-29a1-4c23-bfc6-846d75a68fe3)
+![5](https://github.com/Naavii707/PROYECTO-PARCIAL-3/assets/156258057/1aacb5e6-dfe7-4488-91f4-259bd14a8922)
+![4](https://github.com/Naavii707/PROYECTO-PARCIAL-3/assets/156258057/6b446543-6555-4681-941c-09bfcedb6142)
+![3](https://github.com/Naavii707/PROYECTO-PARCIAL-3/assets/156258057/d39ca449-c157-494b-be4e-45e961a960ef)
+![2](https://github.com/Naavii707/PROYECTO-PARCIAL-3/assets/156258057/2fe0a3ea-b842-446b-b152-36d266fe573a)
+![1](https://github.com/Naavii707/PROYECTO-PARCIAL-3/assets/156258057/613d147a-8617-4dc4-8e3b-d85865eb731d)
 # PPV2--Proyecto-Parcial-3
 Este es un repositorio del proyecto del tercer parcial para la materia de programación para videojuegos 2
 
