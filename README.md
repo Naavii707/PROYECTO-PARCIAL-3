@@ -17,3 +17,5 @@ Este proyecto tiene algunos detalles adicionales a su realización inicial, por 
 - El juego te indica de manera precisa si tu respuesta es correcta o incorrecta.
 - Ventana de créditos.
 - Logo al inicio del juego.
+
+Dentro del 
