@@ -1,0 +1,35 @@
+{
+    "Lesson": 1,
+    "leccionList": [
+        {
+            "ID": 1,
+            "lessons": "¿Cual es el lenguaje de programacion principal utilizado en Unity?",
+            "options": [ "C#", "Java", "Python", "JavaScript", "C++" ],
+            "correctAnswer": 0
+        },
+        {
+            "ID": 2,
+            "lessons": "¿Que es un GameObject en Unity?",
+            "options": [ "Una textura", "Una animacion", "Un objeto fisico", "Un componente", "Un sonido" ],
+            "correctAnswer": 3
+        },
+        {
+            "ID": 3,
+            "lessons": "¿Que componente se utiliza para permitir que un GameObject se mueva en Unity?",
+            "options": [ "Rigidbody", "Collider", "MeshRenderer", "Transform", "Animator" ],
+            "correctAnswer": 0
+        },
+        {
+            "ID": 4,
+            "lessons": "Unity es un...",
+            "options": [ "Motor de render", "Plataforma de desarrollo de juegos", "Compilador de código", "Editor de imagenes", "Reproductor de videojuegos" ],
+            "correctAnswer": 1
+        },
+        {
+            "ID": 5,
+            "lessons": "¿Que controla el componente 'Transform' en Unity sobre un objeto?",
+            "options": [ "La apariencia", "El material", "El movimiento/posición", "Si está activo o inactivo", "La iluminación" ],
+            "correctAnswer": 2
+        }
+    ]
+}
